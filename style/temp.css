@@ -1,0 +1,10 @@
+@import "_reset.css";
+
+body {
+  width: 100vw;
+}
+
+img {
+  border: 1px solid black;
+  margin: 0 auto;
+}
